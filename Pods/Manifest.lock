@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - IQKeyboardManager (6.5.9)
+  - ObjectMapper (3.5.3)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - IQKeyboardManager
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - IQKeyboardManager
+    - ObjectMapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  IQKeyboardManager: 241cc94ccabc9deb8f8bd7d12f00d73288d13ecc
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 5c69b3599efd0ec1f1891ffefe77e2717f3cac49
+
+COCOAPODS: 1.11.2
